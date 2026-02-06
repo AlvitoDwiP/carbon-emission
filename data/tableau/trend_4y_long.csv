@@ -1,0 +1,421 @@
+country,year_group,value,metric,unit,aggregation_type
+Brunei,2000,5.76725,CO2 Total,tonnes,average_annual
+Brunei,2004,6.65425,CO2 Total,tonnes,average_annual
+Brunei,2008,8.620750000000001,CO2 Total,tonnes,average_annual
+Brunei,2012,8.2225,CO2 Total,tonnes,average_annual
+Brunei,2016,8.961749999999999,CO2 Total,tonnes,average_annual
+Brunei,2020,11.9015,CO2 Total,tonnes,average_annual
+Cambodia,2000,2.15975,CO2 Total,tonnes,average_annual
+Cambodia,2004,2.6959999999999997,CO2 Total,tonnes,average_annual
+Cambodia,2008,4.71325,CO2 Total,tonnes,average_annual
+Cambodia,2012,6.5215,CO2 Total,tonnes,average_annual
+Cambodia,2016,13.82375,CO2 Total,tonnes,average_annual
+Cambodia,2020,21.010749999999998,CO2 Total,tonnes,average_annual
+Indonesia,2000,311.2595,CO2 Total,tonnes,average_annual
+Indonesia,2004,356.00325,CO2 Total,tonnes,average_annual
+Indonesia,2008,427.459,CO2 Total,tonnes,average_annual
+Indonesia,2012,514.5985000000001,CO2 Total,tonnes,average_annual
+Indonesia,2016,597.831,CO2 Total,tonnes,average_annual
+Indonesia,2020,694.15725,CO2 Total,tonnes,average_annual
+Laos,2000,1.1015,CO2 Total,tonnes,average_annual
+Laos,2004,1.553,CO2 Total,tonnes,average_annual
+Laos,2008,2.7239999999999998,CO2 Total,tonnes,average_annual
+Laos,2012,5.2735,CO2 Total,tonnes,average_annual
+Laos,2016,18.713250000000002,CO2 Total,tonnes,average_annual
+Laos,2020,21.70925,CO2 Total,tonnes,average_annual
+Malaysia,2000,134.79749999999999,CO2 Total,tonnes,average_annual
+Malaysia,2004,171.318,CO2 Total,tonnes,average_annual
+Malaysia,2008,196.94225,CO2 Total,tonnes,average_annual
+Malaysia,2012,233.915,CO2 Total,tonnes,average_annual
+Malaysia,2016,255.51775,CO2 Total,tonnes,average_annual
+Malaysia,2020,273.418,CO2 Total,tonnes,average_annual
+Myanmar,2000,9.6,CO2 Total,tonnes,average_annual
+Myanmar,2004,12.44375,CO2 Total,tonnes,average_annual
+Myanmar,2008,12.057500000000001,CO2 Total,tonnes,average_annual
+Myanmar,2012,15.567499999999999,CO2 Total,tonnes,average_annual
+Myanmar,2016,28.10275,CO2 Total,tonnes,average_annual
+Myanmar,2020,31.82625,CO2 Total,tonnes,average_annual
+Philippines,2000,70.06475,CO2 Total,tonnes,average_annual
+Philippines,2004,69.99725000000001,CO2 Total,tonnes,average_annual
+Philippines,2008,79.35300000000001,CO2 Total,tonnes,average_annual
+Philippines,2012,98.35525,CO2 Total,tonnes,average_annual
+Philippines,2016,134.0625,CO2 Total,tonnes,average_annual
+Philippines,2020,145.9175,CO2 Total,tonnes,average_annual
+Singapore,2000,38.909,CO2 Total,tonnes,average_annual
+Singapore,2004,40.575,CO2 Total,tonnes,average_annual
+Singapore,2008,43.1,CO2 Total,tonnes,average_annual
+Singapore,2012,47.525,CO2 Total,tonnes,average_annual
+Singapore,2016,49.625,CO2 Total,tonnes,average_annual
+Singapore,2020,49.2005,CO2 Total,tonnes,average_annual
+Thailand,2000,178.843,CO2 Total,tonnes,average_annual
+Thailand,2004,215.391,CO2 Total,tonnes,average_annual
+Thailand,2008,234.7455,CO2 Total,tonnes,average_annual
+Thailand,2012,268.92225,CO2 Total,tonnes,average_annual
+Thailand,2016,284.39375,CO2 Total,tonnes,average_annual
+Thailand,2020,269.09299999999996,CO2 Total,tonnes,average_annual
+Vietnam,2000,65.42750000000001,CO2 Total,tonnes,average_annual
+Vietnam,2004,96.4675,CO2 Total,tonnes,average_annual
+Vietnam,2008,132.73024999999998,CO2 Total,tonnes,average_annual
+Vietnam,2012,172.2965,CO2 Total,tonnes,average_annual
+Vietnam,2016,260.87525,CO2 Total,tonnes,average_annual
+Vietnam,2020,336.712,CO2 Total,tonnes,average_annual
+Brunei,2000,0.0,CO2 from Cement,tonnes,average_annual
+Brunei,2004,0.0,CO2 from Cement,tonnes,average_annual
+Brunei,2008,0.0,CO2 from Cement,tonnes,average_annual
+Brunei,2012,0.0,CO2 from Cement,tonnes,average_annual
+Brunei,2016,0.0,CO2 from Cement,tonnes,average_annual
+Brunei,2020,0.0,CO2 from Cement,tonnes,average_annual
+Cambodia,2000,0.0,CO2 from Cement,tonnes,average_annual
+Cambodia,2004,0.01325,CO2 from Cement,tonnes,average_annual
+Cambodia,2008,0.37975,CO2 from Cement,tonnes,average_annual
+Cambodia,2012,0.53925,CO2 from Cement,tonnes,average_annual
+Cambodia,2016,3.01125,CO2 from Cement,tonnes,average_annual
+Cambodia,2020,5.81925,CO2 from Cement,tonnes,average_annual
+Indonesia,2000,17.42575,CO2 from Cement,tonnes,average_annual
+Indonesia,2004,18.767500000000002,CO2 from Cement,tonnes,average_annual
+Indonesia,2008,19.797,CO2 from Cement,tonnes,average_annual
+Indonesia,2012,24.591250000000002,CO2 from Cement,tonnes,average_annual
+Indonesia,2016,30.42625,CO2 from Cement,tonnes,average_annual
+Indonesia,2020,30.1635,CO2 from Cement,tonnes,average_annual
+Laos,2000,0.06725,CO2 from Cement,tonnes,average_annual
+Laos,2004,0.127,CO2 from Cement,tonnes,average_annual
+Laos,2008,0.37125,CO2 from Cement,tonnes,average_annual
+Laos,2012,0.85325,CO2 from Cement,tonnes,average_annual
+Laos,2016,1.6555,CO2 from Cement,tonnes,average_annual
+Laos,2020,4.40525,CO2 from Cement,tonnes,average_annual
+Malaysia,2000,6.948,CO2 from Cement,tonnes,average_annual
+Malaysia,2004,7.84975,CO2 from Cement,tonnes,average_annual
+Malaysia,2008,7.79275,CO2 from Cement,tonnes,average_annual
+Malaysia,2012,8.76125,CO2 from Cement,tonnes,average_annual
+Malaysia,2016,9.02175,CO2 from Cement,tonnes,average_annual
+Malaysia,2020,11.74575,CO2 from Cement,tonnes,average_annual
+Myanmar,2000,0.18125,CO2 from Cement,tonnes,average_annual
+Myanmar,2004,0.21925,CO2 from Cement,tonnes,average_annual
+Myanmar,2008,0.23025,CO2 from Cement,tonnes,average_annual
+Myanmar,2012,0.41425,CO2 from Cement,tonnes,average_annual
+Myanmar,2016,1.679,CO2 from Cement,tonnes,average_annual
+Myanmar,2020,2.75725,CO2 from Cement,tonnes,average_annual
+Philippines,2000,4.4072499999999994,CO2 from Cement,tonnes,average_annual
+Philippines,2004,4.7805,CO2 from Cement,tonnes,average_annual
+Philippines,2008,5.37875,CO2 from Cement,tonnes,average_annual
+Philippines,2012,7.3585,CO2 from Cement,tonnes,average_annual
+Philippines,2016,9.116,CO2 from Cement,tonnes,average_annual
+Philippines,2020,9.377749999999999,CO2 from Cement,tonnes,average_annual
+Singapore,2000,0.0,CO2 from Cement,tonnes,average_annual
+Singapore,2004,0.0,CO2 from Cement,tonnes,average_annual
+Singapore,2008,0.0,CO2 from Cement,tonnes,average_annual
+Singapore,2012,0.0,CO2 from Cement,tonnes,average_annual
+Singapore,2016,0.0,CO2 from Cement,tonnes,average_annual
+Singapore,2020,0.0,CO2 from Cement,tonnes,average_annual
+Thailand,2000,17.499499999999998,CO2 from Cement,tonnes,average_annual
+Thailand,2004,20.433,CO2 from Cement,tonnes,average_annual
+Thailand,2008,18.70325,CO2 from Cement,tonnes,average_annual
+Thailand,2012,19.3515,CO2 from Cement,tonnes,average_annual
+Thailand,2016,22.55275,CO2 from Cement,tonnes,average_annual
+Thailand,2020,20.83,CO2 from Cement,tonnes,average_annual
+Vietnam,2000,7.4605,CO2 from Cement,tonnes,average_annual
+Vietnam,2004,12.151250000000001,CO2 from Cement,tonnes,average_annual
+Vietnam,2008,21.64875,CO2 from Cement,tonnes,average_annual
+Vietnam,2012,31.3565,CO2 from Cement,tonnes,average_annual
+Vietnam,2016,46.433,CO2 from Cement,tonnes,average_annual
+Vietnam,2020,55.650999999999996,CO2 from Cement,tonnes,average_annual
+Brunei,2000,,CO2 from Coal,tonnes,average_annual
+Brunei,2004,,CO2 from Coal,tonnes,average_annual
+Brunei,2008,,CO2 from Coal,tonnes,average_annual
+Brunei,2012,,CO2 from Coal,tonnes,average_annual
+Brunei,2016,0.605,CO2 from Coal,tonnes,average_annual
+Brunei,2020,2.6365,CO2 from Coal,tonnes,average_annual
+Cambodia,2000,,CO2 from Coal,tonnes,average_annual
+Cambodia,2004,,CO2 from Coal,tonnes,average_annual
+Cambodia,2008,0.07250000000000001,CO2 from Coal,tonnes,average_annual
+Cambodia,2012,0.83825,CO2 from Coal,tonnes,average_annual
+Cambodia,2016,3.42475,CO2 from Coal,tonnes,average_annual
+Cambodia,2020,5.906,CO2 from Coal,tonnes,average_annual
+Indonesia,2000,67.9225,CO2 from Coal,tonnes,average_annual
+Indonesia,2004,107.03625,CO2 from Coal,tonnes,average_annual
+Indonesia,2008,146.01675,CO2 from Coal,tonnes,average_annual
+Indonesia,2012,180.69725,CO2 from Coal,tonnes,average_annual
+Indonesia,2016,251.261,CO2 from Coal,tonnes,average_annual
+Indonesia,2020,351.82399999999996,CO2 from Coal,tonnes,average_annual
+Laos,2000,0.06925,CO2 from Coal,tonnes,average_annual
+Laos,2004,0.16525,CO2 from Coal,tonnes,average_annual
+Laos,2008,0.49124999999999996,CO2 from Coal,tonnes,average_annual
+Laos,2012,2.0045,CO2 from Coal,tonnes,average_annual
+Laos,2016,13.970749999999999,CO2 from Coal,tonnes,average_annual
+Laos,2020,14.61475,CO2 from Coal,tonnes,average_annual
+Malaysia,2000,12.140999999999998,CO2 from Coal,tonnes,average_annual
+Malaysia,2004,28.599249999999998,CO2 from Coal,tonnes,average_annual
+Malaysia,2008,48.8795,CO2 from Coal,tonnes,average_annual
+Malaysia,2012,60.62075,CO2 from Coal,tonnes,average_annual
+Malaysia,2016,78.8025,CO2 from Coal,tonnes,average_annual
+Malaysia,2020,90.838,CO2 from Coal,tonnes,average_annual
+Myanmar,2000,1.19,CO2 from Coal,tonnes,average_annual
+Myanmar,2004,0.772,CO2 from Coal,tonnes,average_annual
+Myanmar,2008,1.03775,CO2 from Coal,tonnes,average_annual
+Myanmar,2012,1.232,CO2 from Coal,tonnes,average_annual
+Myanmar,2016,2.464,CO2 from Coal,tonnes,average_annual
+Myanmar,2020,3.343,CO2 from Coal,tonnes,average_annual
+Philippines,2000,15.20325,CO2 from Coal,tonnes,average_annual
+Philippines,2004,18.4085,CO2 from Coal,tonnes,average_annual
+Philippines,2008,26.83925,CO2 from Coal,tonnes,average_annual
+Philippines,2012,39.8245,CO2 from Coal,tonnes,average_annual
+Philippines,2016,61.17,CO2 from Coal,tonnes,average_annual
+Philippines,2020,75.86525,CO2 from Coal,tonnes,average_annual
+Singapore,2000,0.00725,CO2 from Coal,tonnes,average_annual
+Singapore,2004,0.042,CO2 from Coal,tonnes,average_annual
+Singapore,2008,0.03475,CO2 from Coal,tonnes,average_annual
+Singapore,2012,1.02675,CO2 from Coal,tonnes,average_annual
+Singapore,2016,2.14175,CO2 from Coal,tonnes,average_annual
+Singapore,2020,1.56175,CO2 from Coal,tonnes,average_annual
+Thailand,2000,37.264250000000004,CO2 from Coal,tonnes,average_annual
+Thailand,2004,50.553,CO2 from Coal,tonnes,average_annual
+Thailand,2008,63.503,CO2 from Coal,tonnes,average_annual
+Thailand,2012,70.31,CO2 from Coal,tonnes,average_annual
+Thailand,2016,74.012,CO2 from Coal,tonnes,average_annual
+Thailand,2020,70.14574999999999,CO2 from Coal,tonnes,average_annual
+Vietnam,2000,26.284,CO2 from Coal,tonnes,average_annual
+Vietnam,2004,38.3645,CO2 from Coal,tonnes,average_annual
+Vietnam,2008,49.036,CO2 from Coal,tonnes,average_annual
+Vietnam,2012,71.23075,CO2 from Coal,tonnes,average_annual
+Vietnam,2016,132.27224999999999,CO2 from Coal,tonnes,average_annual
+Vietnam,2020,193.73375,CO2 from Coal,tonnes,average_annual
+Brunei,2000,0.295,CO2 from Flaring,tonnes,average_annual
+Brunei,2004,0.23199999999999998,CO2 from Flaring,tonnes,average_annual
+Brunei,2008,0.406,CO2 from Flaring,tonnes,average_annual
+Brunei,2012,0.35875,CO2 from Flaring,tonnes,average_annual
+Brunei,2016,0.50925,CO2 from Flaring,tonnes,average_annual
+Brunei,2020,0.269,CO2 from Flaring,tonnes,average_annual
+Cambodia,2000,0.0,CO2 from Flaring,tonnes,average_annual
+Cambodia,2004,0.0,CO2 from Flaring,tonnes,average_annual
+Cambodia,2008,0.0,CO2 from Flaring,tonnes,average_annual
+Cambodia,2012,0.0,CO2 from Flaring,tonnes,average_annual
+Cambodia,2016,0.0,CO2 from Flaring,tonnes,average_annual
+Cambodia,2020,0.006,CO2 from Flaring,tonnes,average_annual
+Indonesia,2000,7.8245000000000005,CO2 from Flaring,tonnes,average_annual
+Indonesia,2004,5.64625,CO2 from Flaring,tonnes,average_annual
+Indonesia,2008,4.9704999999999995,CO2 from Flaring,tonnes,average_annual
+Indonesia,2012,5.943,CO2 from Flaring,tonnes,average_annual
+Indonesia,2016,4.3015,CO2 from Flaring,tonnes,average_annual
+Indonesia,2020,3.35425,CO2 from Flaring,tonnes,average_annual
+Laos,2000,0.0,CO2 from Flaring,tonnes,average_annual
+Laos,2004,0.0,CO2 from Flaring,tonnes,average_annual
+Laos,2008,0.0,CO2 from Flaring,tonnes,average_annual
+Laos,2012,0.0,CO2 from Flaring,tonnes,average_annual
+Laos,2016,0.0,CO2 from Flaring,tonnes,average_annual
+Laos,2020,0.0,CO2 from Flaring,tonnes,average_annual
+Malaysia,2000,2.77825,CO2 from Flaring,tonnes,average_annual
+Malaysia,2004,3.4067499999999997,CO2 from Flaring,tonnes,average_annual
+Malaysia,2008,3.3665000000000003,CO2 from Flaring,tonnes,average_annual
+Malaysia,2012,5.8485,CO2 from Flaring,tonnes,average_annual
+Malaysia,2016,4.8005,CO2 from Flaring,tonnes,average_annual
+Malaysia,2020,3.574,CO2 from Flaring,tonnes,average_annual
+Myanmar,2000,0.0545,CO2 from Flaring,tonnes,average_annual
+Myanmar,2004,0.05375,CO2 from Flaring,tonnes,average_annual
+Myanmar,2008,0.06375,CO2 from Flaring,tonnes,average_annual
+Myanmar,2012,0.1335,CO2 from Flaring,tonnes,average_annual
+Myanmar,2016,0.0595,CO2 from Flaring,tonnes,average_annual
+Myanmar,2020,0.03325,CO2 from Flaring,tonnes,average_annual
+Philippines,2000,0.05325,CO2 from Flaring,tonnes,average_annual
+Philippines,2004,0.03225,CO2 from Flaring,tonnes,average_annual
+Philippines,2008,0.10625,CO2 from Flaring,tonnes,average_annual
+Philippines,2012,0.26625,CO2 from Flaring,tonnes,average_annual
+Philippines,2016,0.23299999999999998,CO2 from Flaring,tonnes,average_annual
+Philippines,2020,0.14125,CO2 from Flaring,tonnes,average_annual
+Singapore,2000,0.0,CO2 from Flaring,tonnes,average_annual
+Singapore,2004,0.0,CO2 from Flaring,tonnes,average_annual
+Singapore,2008,0.0,CO2 from Flaring,tonnes,average_annual
+Singapore,2012,0.0,CO2 from Flaring,tonnes,average_annual
+Singapore,2016,0.0,CO2 from Flaring,tonnes,average_annual
+Singapore,2020,0.0,CO2 from Flaring,tonnes,average_annual
+Thailand,2000,0.30374999999999996,CO2 from Flaring,tonnes,average_annual
+Thailand,2004,0.42275,CO2 from Flaring,tonnes,average_annual
+Thailand,2008,0.47075,CO2 from Flaring,tonnes,average_annual
+Thailand,2012,0.8375,CO2 from Flaring,tonnes,average_annual
+Thailand,2016,0.65325,CO2 from Flaring,tonnes,average_annual
+Thailand,2020,0.4775,CO2 from Flaring,tonnes,average_annual
+Vietnam,2000,1.22675,CO2 from Flaring,tonnes,average_annual
+Vietnam,2004,1.11075,CO2 from Flaring,tonnes,average_annual
+Vietnam,2008,1.08475,CO2 from Flaring,tonnes,average_annual
+Vietnam,2012,1.8415,CO2 from Flaring,tonnes,average_annual
+Vietnam,2016,1.53125,CO2 from Flaring,tonnes,average_annual
+Vietnam,2020,1.15525,CO2 from Flaring,tonnes,average_annual
+Brunei,2000,4.0767500000000005,CO2 from Gas,tonnes,average_annual
+Brunei,2004,5.11925,CO2 from Gas,tonnes,average_annual
+Brunei,2008,6.37575,CO2 from Gas,tonnes,average_annual
+Brunei,2012,6.09975,CO2 from Gas,tonnes,average_annual
+Brunei,2016,6.28975,CO2 from Gas,tonnes,average_annual
+Brunei,2020,5.52125,CO2 from Gas,tonnes,average_annual
+Cambodia,2000,,CO2 from Gas,tonnes,average_annual
+Cambodia,2004,,CO2 from Gas,tonnes,average_annual
+Cambodia,2008,,CO2 from Gas,tonnes,average_annual
+Cambodia,2012,,CO2 from Gas,tonnes,average_annual
+Cambodia,2016,,CO2 from Gas,tonnes,average_annual
+Cambodia,2020,,CO2 from Gas,tonnes,average_annual
+Indonesia,2000,58.045,CO2 from Gas,tonnes,average_annual
+Indonesia,2004,57.71025,CO2 from Gas,tonnes,average_annual
+Indonesia,2008,70.03425,CO2 from Gas,tonnes,average_annual
+Indonesia,2012,75.37125,CO2 from Gas,tonnes,average_annual
+Indonesia,2016,86.896,CO2 from Gas,tonnes,average_annual
+Indonesia,2020,85.15525,CO2 from Gas,tonnes,average_annual
+Laos,2000,,CO2 from Gas,tonnes,average_annual
+Laos,2004,,CO2 from Gas,tonnes,average_annual
+Laos,2008,,CO2 from Gas,tonnes,average_annual
+Laos,2012,,CO2 from Gas,tonnes,average_annual
+Laos,2016,,CO2 from Gas,tonnes,average_annual
+Laos,2020,,CO2 from Gas,tonnes,average_annual
+Malaysia,2000,52.29,CO2 from Gas,tonnes,average_annual
+Malaysia,2004,64.57075,CO2 from Gas,tonnes,average_annual
+Malaysia,2008,65.9165,CO2 from Gas,tonnes,average_annual
+Malaysia,2012,77.084,CO2 from Gas,tonnes,average_annual
+Malaysia,2016,79.49375,CO2 from Gas,tonnes,average_annual
+Malaysia,2020,94.752,CO2 from Gas,tonnes,average_annual
+Myanmar,2000,2.58075,CO2 from Gas,tonnes,average_annual
+Myanmar,2004,5.72875,CO2 from Gas,tonnes,average_annual
+Myanmar,2008,4.6775,CO2 from Gas,tonnes,average_annual
+Myanmar,2012,5.8645,CO2 from Gas,tonnes,average_annual
+Myanmar,2016,8.16,CO2 from Gas,tonnes,average_annual
+Myanmar,2020,8.92725,CO2 from Gas,tonnes,average_annual
+Philippines,2000,2.12975,CO2 from Gas,tonnes,average_annual
+Philippines,2004,5.8375,CO2 from Gas,tonnes,average_annual
+Philippines,2008,7.4125,CO2 from Gas,tonnes,average_annual
+Philippines,2012,6.94975,CO2 from Gas,tonnes,average_annual
+Philippines,2016,8.0075,CO2 from Gas,tonnes,average_annual
+Philippines,2020,6.5425,CO2 from Gas,tonnes,average_annual
+Singapore,2000,5.92425,CO2 from Gas,tonnes,average_annual
+Singapore,2004,12.29975,CO2 from Gas,tonnes,average_annual
+Singapore,2008,14.285499999999999,CO2 from Gas,tonnes,average_annual
+Singapore,2012,18.34225,CO2 from Gas,tonnes,average_annual
+Singapore,2016,20.418,CO2 from Gas,tonnes,average_annual
+Singapore,2020,20.9135,CO2 from Gas,tonnes,average_annual
+Thailand,2000,44.44825,CO2 from Gas,tonnes,average_annual
+Thailand,2004,55.349000000000004,CO2 from Gas,tonnes,average_annual
+Thailand,2008,71.14375,CO2 from Gas,tonnes,average_annual
+Thailand,2012,86.281,CO2 from Gas,tonnes,average_annual
+Thailand,2016,85.6625,CO2 from Gas,tonnes,average_annual
+Thailand,2020,78.289,CO2 from Gas,tonnes,average_annual
+Vietnam,2000,3.7337499999999997,CO2 from Gas,tonnes,average_annual
+Vietnam,2004,10.461500000000001,CO2 from Gas,tonnes,average_annual
+Vietnam,2008,15.900749999999999,CO2 from Gas,tonnes,average_annual
+Vietnam,2012,19.1845,CO2 from Gas,tonnes,average_annual
+Vietnam,2016,18.92625,CO2 from Gas,tonnes,average_annual
+Vietnam,2020,15.3025,CO2 from Gas,tonnes,average_annual
+Brunei,2000,1.396,CO2 from Oil,tonnes,average_annual
+Brunei,2004,1.30275,CO2 from Oil,tonnes,average_annual
+Brunei,2008,1.83925,CO2 from Oil,tonnes,average_annual
+Brunei,2012,1.764,CO2 from Oil,tonnes,average_annual
+Brunei,2016,2.0115,CO2 from Oil,tonnes,average_annual
+Brunei,2020,3.47425,CO2 from Oil,tonnes,average_annual
+Cambodia,2000,2.15975,CO2 from Oil,tonnes,average_annual
+Cambodia,2004,2.683,CO2 from Oil,tonnes,average_annual
+Cambodia,2008,4.261,CO2 from Oil,tonnes,average_annual
+Cambodia,2012,5.144,CO2 from Oil,tonnes,average_annual
+Cambodia,2016,7.388,CO2 from Oil,tonnes,average_annual
+Cambodia,2020,9.2795,CO2 from Oil,tonnes,average_annual
+Indonesia,2000,160.042,CO2 from Oil,tonnes,average_annual
+Indonesia,2004,166.84325,CO2 from Oil,tonnes,average_annual
+Indonesia,2008,186.64075,CO2 from Oil,tonnes,average_annual
+Indonesia,2012,227.99525,CO2 from Oil,tonnes,average_annual
+Indonesia,2016,224.94675,CO2 from Oil,tonnes,average_annual
+Indonesia,2020,223.66,CO2 from Oil,tonnes,average_annual
+Laos,2000,0.96475,CO2 from Oil,tonnes,average_annual
+Laos,2004,1.26125,CO2 from Oil,tonnes,average_annual
+Laos,2008,1.862,CO2 from Oil,tonnes,average_annual
+Laos,2012,2.416,CO2 from Oil,tonnes,average_annual
+Laos,2016,3.0869999999999997,CO2 from Oil,tonnes,average_annual
+Laos,2020,2.689,CO2 from Oil,tonnes,average_annual
+Malaysia,2000,60.6405,CO2 from Oil,tonnes,average_annual
+Malaysia,2004,66.892,CO2 from Oil,tonnes,average_annual
+Malaysia,2008,70.98724999999999,CO2 from Oil,tonnes,average_annual
+Malaysia,2012,81.6,CO2 from Oil,tonnes,average_annual
+Malaysia,2016,83.3995,CO2 from Oil,tonnes,average_annual
+Malaysia,2020,72.50874999999999,CO2 from Oil,tonnes,average_annual
+Myanmar,2000,5.5935,CO2 from Oil,tonnes,average_annual
+Myanmar,2004,5.67025,CO2 from Oil,tonnes,average_annual
+Myanmar,2008,6.048,CO2 from Oil,tonnes,average_annual
+Myanmar,2012,7.923,CO2 from Oil,tonnes,average_annual
+Myanmar,2016,15.74,CO2 from Oil,tonnes,average_annual
+Myanmar,2020,16.765500000000003,CO2 from Oil,tonnes,average_annual
+Philippines,2000,48.271,CO2 from Oil,tonnes,average_annual
+Philippines,2004,40.93825,CO2 from Oil,tonnes,average_annual
+Philippines,2008,39.6165,CO2 from Oil,tonnes,average_annual
+Philippines,2012,43.95675,CO2 from Oil,tonnes,average_annual
+Philippines,2016,55.536,CO2 from Oil,tonnes,average_annual
+Philippines,2020,53.991,CO2 from Oil,tonnes,average_annual
+Singapore,2000,32.978,CO2 from Oil,tonnes,average_annual
+Singapore,2004,28.233249999999998,CO2 from Oil,tonnes,average_annual
+Singapore,2008,28.78,CO2 from Oil,tonnes,average_annual
+Singapore,2012,28.155749999999998,CO2 from Oil,tonnes,average_annual
+Singapore,2016,27.0655,CO2 from Oil,tonnes,average_annual
+Singapore,2020,26.7255,CO2 from Oil,tonnes,average_annual
+Thailand,2000,79.3275,CO2 from Oil,tonnes,average_annual
+Thailand,2004,88.63325,CO2 from Oil,tonnes,average_annual
+Thailand,2008,80.925,CO2 from Oil,tonnes,average_annual
+Thailand,2012,92.14225,CO2 from Oil,tonnes,average_annual
+Thailand,2016,101.513,CO2 from Oil,tonnes,average_annual
+Thailand,2020,99.35075,CO2 from Oil,tonnes,average_annual
+Vietnam,2000,26.723,CO2 from Oil,tonnes,average_annual
+Vietnam,2004,34.37975,CO2 from Oil,tonnes,average_annual
+Vietnam,2008,45.0605,CO2 from Oil,tonnes,average_annual
+Vietnam,2012,48.6825,CO2 from Oil,tonnes,average_annual
+Vietnam,2016,61.713,CO2 from Oil,tonnes,average_annual
+Vietnam,2020,70.86925,CO2 from Oil,tonnes,average_annual
+Brunei,2000,17.139,CO2 per Capita,tonnes_per_person,average_annual
+Brunei,2004,18.349249999999998,CO2 per Capita,tonnes_per_person,average_annual
+Brunei,2008,22.18475,CO2 per Capita,tonnes_per_person,average_annual
+Brunei,2012,19.89525,CO2 per Capita,tonnes_per_person,average_annual
+Brunei,2016,20.57575,CO2 per Capita,tonnes_per_person,average_annual
+Brunei,2020,26.2425,CO2 per Capita,tonnes_per_person,average_annual
+Cambodia,2000,0.16949999999999998,CO2 per Capita,tonnes_per_person,average_annual
+Cambodia,2004,0.1985,CO2 per Capita,tonnes_per_person,average_annual
+Cambodia,2008,0.327,CO2 per Capita,tonnes_per_person,average_annual
+Cambodia,2012,0.42575,CO2 per Capita,tonnes_per_person,average_annual
+Cambodia,2016,0.85225,CO2 per Capita,tonnes_per_person,average_annual
+Cambodia,2020,1.23025,CO2 per Capita,tonnes_per_person,average_annual
+Indonesia,2000,1.41025,CO2 per Capita,tonnes_per_person,average_annual
+Indonesia,2004,1.53125,CO2 per Capita,tonnes_per_person,average_annual
+Indonesia,2008,1.7435,CO2 per Capita,tonnes_per_person,average_annual
+Indonesia,2012,1.99975,CO2 per Capita,tonnes_per_person,average_annual
+Indonesia,2016,2.2245,CO2 per Capita,tonnes_per_person,average_annual
+Indonesia,2020,2.49625,CO2 per Capita,tonnes_per_person,average_annual
+Laos,2000,0.19774999999999998,CO2 per Capita,tonnes_per_person,average_annual
+Laos,2004,0.262,CO2 per Capita,tonnes_per_person,average_annual
+Laos,2008,0.4325,CO2 per Capita,tonnes_per_person,average_annual
+Laos,2012,0.7875000000000001,CO2 per Capita,tonnes_per_person,average_annual
+Laos,2016,2.6445,CO2 per Capita,tonnes_per_person,average_annual
+Laos,2020,2.88875,CO2 per Capita,tonnes_per_person,average_annual
+Malaysia,2000,5.65175,CO2 per Capita,tonnes_per_person,average_annual
+Malaysia,2004,6.55925,CO2 per Capita,tonnes_per_person,average_annual
+Malaysia,2008,6.94,CO2 per Capita,tonnes_per_person,average_annual
+Malaysia,2012,7.6815,CO2 per Capita,tonnes_per_person,average_annual
+Malaysia,2016,7.82575,CO2 per Capita,tonnes_per_person,average_annual
+Malaysia,2020,7.925,CO2 per Capita,tonnes_per_person,average_annual
+Myanmar,2000,0.20875,CO2 per Capita,tonnes_per_person,average_annual
+Myanmar,2004,0.26125,CO2 per Capita,tonnes_per_person,average_annual
+Myanmar,2008,0.2465,CO2 per Capita,tonnes_per_person,average_annual
+Myanmar,2012,0.30774999999999997,CO2 per Capita,tonnes_per_person,average_annual
+Myanmar,2016,0.539,CO2 per Capita,tonnes_per_person,average_annual
+Myanmar,2020,0.59425,CO2 per Capita,tonnes_per_person,average_annual
+Philippines,2000,0.853,CO2 per Capita,tonnes_per_person,average_annual
+Philippines,2004,0.78925,CO2 per Capita,tonnes_per_person,average_annual
+Philippines,2008,0.8315,CO2 per Capita,tonnes_per_person,average_annual
+Philippines,2012,0.9550000000000001,CO2 per Capita,tonnes_per_person,average_annual
+Philippines,2016,1.2315,CO2 per Capita,tonnes_per_person,average_annual
+Philippines,2020,1.28475,CO2 per Capita,tonnes_per_person,average_annual
+Singapore,2000,9.46725,CO2 per Capita,tonnes_per_person,average_annual
+Singapore,2004,9.3145,CO2 per Capita,tonnes_per_person,average_annual
+Singapore,2008,8.597249999999999,CO2 per Capita,tonnes_per_person,average_annual
+Singapore,2012,8.7745,CO2 per Capita,tonnes_per_person,average_annual
+Singapore,2016,8.82825,CO2 per Capita,tonnes_per_person,average_annual
+Singapore,2020,8.706,CO2 per Capita,tonnes_per_person,average_annual
+Thailand,2000,2.7952500000000002,CO2 per Capita,tonnes_per_person,average_annual
+Thailand,2004,3.2487500000000002,CO2 per Capita,tonnes_per_person,average_annual
+Thailand,2008,3.4345,CO2 per Capita,tonnes_per_person,average_annual
+Thailand,2012,3.84075,CO2 per Capita,tonnes_per_person,average_annual
+Thailand,2016,3.99275,CO2 per Capita,tonnes_per_person,average_annual
+Thailand,2020,3.753,CO2 per Capita,tonnes_per_person,average_annual
+Vietnam,2000,0.83375,CO2 per Capita,tonnes_per_person,average_annual
+Vietnam,2004,1.17875,CO2 per Capita,tonnes_per_person,average_annual
+Vietnam,2008,1.52575,CO2 per Capita,tonnes_per_person,average_annual
+Vietnam,2012,1.88675,CO2 per Capita,tonnes_per_person,average_annual
+Vietnam,2016,2.7225,CO2 per Capita,tonnes_per_person,average_annual
+Vietnam,2020,3.3930000000000002,CO2 per Capita,tonnes_per_person,average_annual

@@ -1,0 +1,26 @@
+country,start_period,end_period,start_value,end_value,change_value,source,unit,aggregation_type
+Indonesia,2000,2020,17.42575,30.1635,12.737749999999998,CO2 from Cement,tonnes,average_annual
+Indonesia,2000,2020,67.9225,351.82399999999996,283.90149999999994,CO2 from Coal,tonnes,average_annual
+Indonesia,2000,2020,7.8245000000000005,3.35425,-4.47025,CO2 from Flaring,tonnes,average_annual
+Indonesia,2000,2020,58.045,85.15525,27.110249999999994,CO2 from Gas,tonnes,average_annual
+Indonesia,2000,2020,160.042,223.66,63.617999999999995,CO2 from Oil,tonnes,average_annual
+Malaysia,2000,2020,6.948,11.74575,4.797749999999999,CO2 from Cement,tonnes,average_annual
+Malaysia,2000,2020,12.140999999999998,90.838,78.697,CO2 from Coal,tonnes,average_annual
+Malaysia,2000,2020,2.77825,3.574,0.79575,CO2 from Flaring,tonnes,average_annual
+Malaysia,2000,2020,52.29,94.752,42.461999999999996,CO2 from Gas,tonnes,average_annual
+Malaysia,2000,2020,60.6405,72.50874999999999,11.868249999999989,CO2 from Oil,tonnes,average_annual
+Philippines,2000,2020,4.4072499999999994,9.377749999999999,4.9704999999999995,CO2 from Cement,tonnes,average_annual
+Philippines,2000,2020,15.20325,75.86525,60.662000000000006,CO2 from Coal,tonnes,average_annual
+Philippines,2000,2020,0.05325,0.14125,0.088,CO2 from Flaring,tonnes,average_annual
+Philippines,2000,2020,2.12975,6.5425,4.412750000000001,CO2 from Gas,tonnes,average_annual
+Philippines,2000,2020,48.271,53.991,5.719999999999999,CO2 from Oil,tonnes,average_annual
+Thailand,2000,2020,17.499499999999998,20.83,3.3305000000000007,CO2 from Cement,tonnes,average_annual
+Thailand,2000,2020,37.264250000000004,70.14574999999999,32.88149999999999,CO2 from Coal,tonnes,average_annual
+Thailand,2000,2020,0.30374999999999996,0.4775,0.17375000000000002,CO2 from Flaring,tonnes,average_annual
+Thailand,2000,2020,44.44825,78.289,33.84075,CO2 from Gas,tonnes,average_annual
+Thailand,2000,2020,79.3275,99.35075,20.023250000000004,CO2 from Oil,tonnes,average_annual
+Vietnam,2000,2020,7.4605,55.650999999999996,48.1905,CO2 from Cement,tonnes,average_annual
+Vietnam,2000,2020,26.284,193.73375,167.44975,CO2 from Coal,tonnes,average_annual
+Vietnam,2000,2020,1.22675,1.15525,-0.0714999999999999,CO2 from Flaring,tonnes,average_annual
+Vietnam,2000,2020,3.7337499999999997,15.3025,11.568750000000001,CO2 from Gas,tonnes,average_annual
+Vietnam,2000,2020,26.723,70.86925,44.146249999999995,CO2 from Oil,tonnes,average_annual
