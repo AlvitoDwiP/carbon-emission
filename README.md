@@ -37,3 +37,28 @@ Repository ini berisi pipeline analisis emisi CO₂ negara ASEAN periode 2000–
 - matplotlib
 - seaborn
 - scipy
+
+## Output
+
+Pipeline ini menghasilkan beberapa artefak yang bisa direproduksi:
+
+- data/process/owid_co2_asean_2000_2024.csv  
+  Dataset hasil filter ASEAN 2000–2024 dari OWID. Menjadi input utama untuk quality check dan EDA.
+
+- notebooks/02_data_quality_check.ipynb (output sel)  
+  Ringkasan kualitas data berupa:
+  - persentase missing value per kolom dan per negara
+  - validasi duplikasi country-year
+  - cakupan tahun per negara
+  - daftar kolom inti yang dipakai untuk analisis lanjutan
+
+- notebooks/03_EDA.ipynb (output sel dan visualisasi)  
+  Hasil eksplorasi dan analisis, meliputi:
+  - grafik tren average annual CO₂ total dan per kapita (grouping 4-tahunan)
+  - ringkasan statistik dan skewness
+  - hasil uji normalitas (indikatif)
+  - matriks korelasi pooled dan within-country
+  - tabel ranking perubahan average annual CO₂ total dan per kapita
+  - tabel dan grafik decomposition perubahan emisi berdasarkan sumber
+
+Seluruh output dihasilkan langsung dari notebook dan tidak memerlukan post-processing manual di luar pipeline ini.
